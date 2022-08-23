@@ -1,0 +1,3 @@
+-Dsonar.projectKey=eks \
+-Dsonar.host.url=http://10.15.50.86:9000 \
+-Dsonar.login=sqp_e29843c54a834f757d3bcd48d035c833f4ce6415
